@@ -33,6 +33,7 @@ const Footer = () => {
                 'Engineering Geology',
                 'Construction Inspection',
                 'Instrumentation',
+                'Instrumentation',
               ].map((service) => (
                 <li key={service}>
                   <a href="#services" className="text-white/80 hover:text-white transition-colors">
