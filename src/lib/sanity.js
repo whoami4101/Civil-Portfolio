@@ -2,7 +2,7 @@ import { createClient } from '@sanity/client'
 import imageUrlBuilder from '@sanity/image-url'
 
 export const client = createClient({
-  projectId: process.env.VITE_SANITY_PROJECT_ID || 'your-project-id',
+  projectId: process.env.VITE_SANITY_PROJECT_ID || 'ybtkofwm',
   dataset: process.env.VITE_SANITY_DATASET || 'production',
   apiVersion: '2024-01-01', // Use today's date or your preferred version
   useCdn: true, // Set to false if you want to ensure fresh data

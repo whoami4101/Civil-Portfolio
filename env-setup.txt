@@ -1,0 +1,8 @@
+# Copy these environment variables to your .env file:
+
+VITE_SANITY_PROJECT_ID=ybtkofwm
+VITE_SANITY_DATASET=production
+VITE_SANITY_API_VERSION=2024-01-01
+
+SANITY_STUDIO_PROJECT_ID=ybtkofwm
+SANITY_STUDIO_DATASET=production
